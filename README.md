@@ -1,2 +1,3 @@
-# google-map-remove-polygons-on-click-example
-Created with CodeSandbox
+# google-maps-polygon-labels
+
+Learn how to highlight polygons on hover using Google Maps JavaScript API in Vue.js
